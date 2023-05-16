@@ -14,7 +14,7 @@ by alexzai007
 
 
     let mut enter:String = String::new();
-    //создаем переменые
+    //создаем переменые для записи информации
     let mut a_string:String = String::new();
     let mut b_string:String = String::new();
     let mut c_string:String = String::new();
